@@ -1,2 +1,2 @@
-# Dices
-Dices game
+# game-dices
+Beginner project in JS
