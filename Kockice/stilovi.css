@@ -1,0 +1,45 @@
+.strana
+{
+    background-color: darkslategrey;
+}
+
+.refresh
+{
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pobeda
+{
+    margin-top: 2%;
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+}
+
+.prvi
+{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    color:white;
+    top:20px;
+}
+
+.pozicijakocaka
+{
+    padding:3%;
+    position: relative;
+    text-align: center;
+    margin:2%;
+}
+
+.prava
+{
+    text-align: center;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+}
